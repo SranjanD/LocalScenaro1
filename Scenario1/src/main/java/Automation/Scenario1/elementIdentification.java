@@ -1,7 +1,6 @@
 package Automation.Scenario1;
 
 public class elementIdentification {
-
 	public String appLogin ="//a[@id = 'nav-link-accountList']";
 	public String appUserName = "//input[@name='email']";
 	public String appPassword = "//input[@name='password']";
